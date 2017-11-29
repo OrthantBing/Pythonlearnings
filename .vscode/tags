@@ -1,0 +1,850 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+1.py	../project euler/1.py	1;"	kind:file	line:1
+2.py	../project euler/2.py	1;"	kind:file	line:1
+ABBA	../topcoder/abba.py	/^class ABBA:$/;"	kind:class	line:3
+ArithmeticProgression	../iterators/arithmetic.py	/^class ArithmeticProgression(Progression):$/;"	kind:class	line:3
+ArrayQueue	../timings/arrayqueue.py	/^class ArrayQueue:$/;"	kind:class	line:1
+BinarySearchTree	../Tree/binarysearchtree.py	/^class BinarySearchTree: $/;"	kind:class	line:44
+BinaryTree	../Tree/binarytree.py	/^class BinaryTree:$/;"	kind:class	line:1
+BinaryTree	../Tree/parsetree.py	/^from binarytree import BinaryTree$/;"	kind:namespace	line:1
+BinaryTree	../Tree2/binarytree.py	/^class BinaryTree(Tree):$/;"	kind:class	line:3
+BinaryTree	../Tree2/linkedbinarytree.py	/^from binarytree import BinaryTree$/;"	kind:namespace	line:1
+C	../alternatingcharacters.py	/^C = Counter(string)$/;"	kind:variable	line:7
+C	../classlearning.py	/^class C(object):$/;"	kind:class	line:1
+CircularQueue	../list/circularqueue.py	/^class CircularQueue(object):$/;"	kind:class	line:2
+Complex	../complex.py	/^class Complex(object):$/;"	kind:class	line:4
+Counter	../alternatingcharacters.py	/^from collections import Counter$/;"	kind:namespace	line:1
+Counter	../search/missingnumbers.py	/^from collections import Counter$/;"	kind:namespace	line:1
+Counter	../sparsearray.py	/^from collections import Counter$/;"	kind:namespace	line:1
+DEFAULT_CAPACITY	../timings/arrayqueue.py	/^    DEFAULT_CAPACITY = 10$/;"	kind:variable	line:2
+DynamicArray	../timings/dynamicarray.py	/^class DynamicArray: $/;"	kind:class	line:4
+FavouritesList	../list/favouriteslist.py	/^class FavouritesList:$/;"	kind:class	line:3
+Fibonacci	../iterators/fibonacci.py	/^class Fibonacci(Progression):$/;"	kind:class	line:3
+Floor	../binarysearch.py	/^def Floor(array, l, r, key):$/;"	kind:function	line:36
+GeometricProgression	../iterators/geometric.py	/^class GeometricProgression(Progression):$/;"	kind:class	line:3
+Graph	../Graphs/Graph/__init__.py	/^from graph import Graph$/;"	kind:namespace	line:1
+Graph	../Graphs/Graph/graph.py	/^class Graph:$/;"	kind:class	line:3
+Graph	../Graphs/Graph/wordladder.py	/^from graph import Graph$/;"	kind:namespace	line:2
+Graph	../Graphs/Graph2/__init__.py	/^from graph import Graph$/;"	kind:namespace	line:1
+Graph	../Graphs/Graph2/buildgraph.py	/^from graph import Graph$/;"	kind:namespace	line:1
+Graph	../Graphs/Graph2/graph.py	/^class Graph:$/;"	kind:class	line:2
+Graph	../Graphs/Knights/knightgraph.py	/^from Graph import Graph$/;"	kind:namespace	line:7
+Graph	../Graphs/graph.py	/^class Graph:$/;"	kind:class	line:23
+HTMLParser	../htmlcomment.py	/^from HTMLParser import HTMLParser$/;"	kind:namespace	line:1
+HTMLParser	../htmlparser.py	/^from HTMLParser import HTMLParser$/;"	kind:namespace	line:1
+Insert	../Sorting/scratch.py	/^    def Insert(self, obj):$/;"	kind:member	line:24
+LinkedBinaryTree	../Tree2/linkedbinarytree.py	/^class LinkedBinaryTree(BinaryTree):$/;"	kind:class	line:3
+LinkedList	../linkedlist.py	/^class LinkedList:$/;"	kind:class	line:18
+LinkedList	../test.py	/^from linkedlist import Node, LinkedList$/;"	kind:namespace	line:1
+LinkedQueue	../list/linkedqueue.py	/^class LinkedQueue(object):$/;"	kind:class	line:2
+MyHTMLParser	../htmlcomment.py	/^class MyHTMLParser(HTMLParser):$/;"	kind:class	line:4
+MyHTMLParser	../htmlparser.py	/^class MyHTMLParser(HTMLParser):$/;"	kind:class	line:4
+N	../scratchpad/list.py	/^    N = int(raw_input())$/;"	kind:variable	line:2
+Node	../linkedlist.py	/^class Node:$/;"	kind:class	line:1
+Node	../list/linkedlistbase.py	/^    class Node:$/;"	kind:class	line:2
+Node	../list/orderedlist.py	/^class Node:$/;"	kind:class	line:4
+Node	../list/runner.py	/^from orderedlist import Node, OrderedList$/;"	kind:namespace	line:1
+Node	../test.py	/^from linkedlist import Node, LinkedList$/;"	kind:namespace	line:1
+OrderedList	../list/orderedlist.py	/^class OrderedList:$/;"	kind:class	line:18
+OrderedList	../list/runner.py	/^from orderedlist import Node, OrderedList$/;"	kind:namespace	line:1
+Points	../torisonal.py	/^class Points(object):$/;"	kind:class	line:2
+Position	../Tree2/linkedbinarytree.py	/^    class Position(BinaryTree.Position):$/;"	kind:class	line:15
+Position	../Tree2/treebase.py	/^    class Position:$/;"	kind:class	line:2
+Position	../list/positionallist.py	/^    class Position:$/;"	kind:class	line:4
+PositionalList	../list/favouriteslist.py	/^from positionallist import PositionalList$/;"	kind:namespace	line:1
+PositionalList	../list/positionallist.py	/^class PositionalList(_DoublyLinkedBase):$/;"	kind:class	line:3
+Progression	../iterators/arithmetic.py	/^from progression import Progression$/;"	kind:namespace	line:1
+Progression	../iterators/fibonacci.py	/^from progression import Progression$/;"	kind:namespace	line:1
+Progression	../iterators/geometric.py	/^from progression import Progression$/;"	kind:namespace	line:1
+Progression	../iterators/progression.py	/^class Progression(object):$/;"	kind:class	line:1
+Solution	../scratchpad/filter.py	/^class Solution:$/;"	kind:class	line:1
+Stack	../stack/infixtopostfix.py	/^class Stack:$/;"	kind:class	line:5
+Student	../Sorting/scratch.py	/^class Student(object):$/;"	kind:class	line:1
+TicTacToe	../timings/tictactoe.py	/^class TicTacToe:$/;"	kind:class	line:1
+Traditional	../binarysearch.py	/^def Traditional(array, l, r, key):$/;"	kind:function	line:19
+Tree	../Tree2/binarytree.py	/^from treebase import Tree$/;"	kind:namespace	line:1
+Tree	../Tree2/treebase.py	/^class Tree:$/;"	kind:class	line:1
+TreeNode	../Tree/binarysearchtree.py	/^class TreeNode:$/;"	kind:class	line:1
+Vertex	../Graphs/Graph/__init__.py	/^from vertex import Vertex$/;"	kind:namespace	line:2
+Vertex	../Graphs/Graph/graph.py	/^from vertex import Vertex$/;"	kind:namespace	line:1
+Vertex	../Graphs/Graph/vertex.py	/^class Vertex:$/;"	kind:class	line:1
+Vertex	../Graphs/Graph2/__init__.py	/^from vertex import Vertex/;"	kind:namespace	line:2
+Vertex	../Graphs/Graph2/buildgraph.py	/^from vertex import Vertex$/;"	kind:namespace	line:2
+Vertex	../Graphs/Graph2/graph.py	/^from vertex import Vertex$/;"	kind:namespace	line:1
+Vertex	../Graphs/Graph2/vertex.py	/^class Vertex:$/;"	kind:class	line:1
+Vertex	../Graphs/graph.py	/^class Vertex:$/;"	kind:class	line:1
+VertexQueue	../Graphs/Graph2/buildgraph.py	/^VertexQueue = deque()$/;"	kind:variable	line:29
+XII	../Sorting/scratch.py	/^class XII(object):$/;"	kind:class	line:19
+_DoublyLinkedBase	../list/linkedlistbase.py	/^class _DoublyLinkedBase:$/;"	kind:class	line:1
+_DoublyLinkedBase	../list/positionallist.py	/^from linkedlistbase import _DoublyLinkedBase$/;"	kind:namespace	line:1
+_Item	../list/favouriteslist.py	/^    class _Item:$/;"	kind:class	line:4
+_Node	../Tree2/linkedbinarytree.py	/^    class _Node:$/;"	kind:class	line:5
+_Node	../list/circularqueue.py	/^    class _Node(object):$/;"	kind:class	line:3
+_Node	../list/linkedqueue.py	/^    class _Node(object):$/;"	kind:class	line:4
+_Print	../bomberman.py	/^def _Print(arr):$/;"	kind:function	line:3
+_Print	../newbomberman.py	/^def _Print(arr):$/;"	kind:function	line:3
+_Print1	../bomberman.py	/^def _Print1(array):$/;"	kind:function	line:12
+_Print1	../newbomberman.py	/^def _Print1(array):$/;"	kind:function	line:12
+__add__	../complex.py	/^    def __add__(self, no):$/;"	kind:member	line:9
+__contains__	../Graphs/Graph/graph.py	/^    def __contains__(self, key):$/;"	kind:member	line:14
+__contains__	../Graphs/Graph2/graph.py	/^    def __contains__(self, n):$/;"	kind:member	line:18
+__contains__	../Graphs/graph.py	/^    def __contains__(self, key):$/;"	kind:member	line:40
+__contains__	../Tree/binarysearchtree.py	/^    def __contains__(self, key):$/;"	kind:member	line:106
+__div__	../complex.py	/^    def __div__(self, no):$/;"	kind:member	line:26
+__eq__	../Sorting/scratch.py	/^    def __eq__(self, other):$/;"	kind:member	line:15
+__eq__	../Tree2/linkedbinarytree.py	/^        def __eq__(self, other):$/;"	kind:member	line:24
+__eq__	../Tree2/treebase.py	/^        def __eq__(self, o):$/;"	kind:member	line:6
+__eq__	../list/positionallist.py	/^        def __eq__(self, other):$/;"	kind:member	line:12
+__getitem__	../Tree/binarysearchtree.py	/^    def __getitem__(self, key):$/;"	kind:member	line:83
+__getitem__	../timings/dynamicarray.py	/^    def __getitem__(self, index):$/;"	kind:member	line:58
+__gt__	../Sorting/scratch.py	/^    def __gt__(self, other):$/;"	kind:member	line:9
+__init__	../Graphs/Graph/graph.py	/^    def __init__(self):$/;"	kind:member	line:4
+__init__	../Graphs/Graph/vertex.py	/^    def __init__(self, key):$/;"	kind:member	line:2
+__init__	../Graphs/Graph2/graph.py	/^    def __init__(self):$/;"	kind:member	line:3
+__init__	../Graphs/Graph2/vertex.py	/^    def __init__(self, id):$/;"	kind:member	line:2
+__init__	../Graphs/graph.py	/^    def __init__(self):$/;"	kind:member	line:24
+__init__	../Graphs/graph.py	/^    def __init__(self, key):$/;"	kind:member	line:2
+__init__	../Sorting/scratch.py	/^    def __init__(self):$/;"	kind:member	line:20
+__init__	../Sorting/scratch.py	/^    def __init__(self, name=None, age=None):$/;"	kind:member	line:2
+__init__	../Tree/binarysearchtree.py	/^    def __init__(self):$/;"	kind:member	line:45
+__init__	../Tree/binarysearchtree.py	/^    def __init__(self, key, val, left=None, right=None, parent=None):$/;"	kind:member	line:2
+__init__	../Tree/binarytree.py	/^    def __init__(self, obj):$/;"	kind:member	line:2
+__init__	../Tree2/linkedbinarytree.py	/^        def __init__(self, container, element):$/;"	kind:member	line:17
+__init__	../Tree2/linkedbinarytree.py	/^        def __init__(self, e, parent=None, left=None, right= None):$/;"	kind:member	line:8
+__init__	../Tree2/linkedbinarytree.py	/^    def __init__(self):$/;"	kind:member	line:46
+__init__	../classlearning.py	/^    def __init__(self):$/;"	kind:member	line:2
+__init__	../complex.py	/^    def __init__(self, real, imaginary):$/;"	kind:member	line:5
+__init__	../iterators/arithmetic.py	/^    def __init__(self, increment=0, start=0):$/;"	kind:member	line:4
+__init__	../iterators/fibonacci.py	/^    def __init__(self, first=0, second=1):$/;"	kind:member	line:4
+__init__	../iterators/geometric.py	/^    def __init__(self, base=2, start=1):$/;"	kind:member	line:4
+__init__	../iterators/progression.py	/^    def __init__(self, start=0):$/;"	kind:member	line:2
+__init__	../linkedlist.py	/^    def __init__(self):$/;"	kind:member	line:19
+__init__	../linkedlist.py	/^    def __init__(self, value):$/;"	kind:member	line:2
+__init__	../list/circularqueue.py	/^        def __init__(self, element, nextel=None):$/;"	kind:member	line:6
+__init__	../list/circularqueue.py	/^    def __init__(self):$/;"	kind:member	line:10
+__init__	../list/favouriteslist.py	/^        def __init__(self, e):$/;"	kind:member	line:6
+__init__	../list/favouriteslist.py	/^    def __init__(self):$/;"	kind:member	line:10
+__init__	../list/linkedlistbase.py	/^        def __init__(self, e, prev, next):$/;"	kind:member	line:4
+__init__	../list/linkedlistbase.py	/^    def __init__(self):$/;"	kind:member	line:9
+__init__	../list/linkedqueue.py	/^        def __init__(self, element, nextel=None):$/;"	kind:member	line:7
+__init__	../list/linkedqueue.py	/^    def __init__(self):$/;"	kind:member	line:11
+__init__	../list/orderedlist.py	/^    def __init__(self):$/;"	kind:member	line:19
+__init__	../list/orderedlist.py	/^    def __init__(self, data):$/;"	kind:member	line:5
+__init__	../list/positionallist.py	/^        def __init__(self, container, node):$/;"	kind:member	line:5
+__init__	../stack/infixtopostfix.py	/^    def __init__(self, list=None):$/;"	kind:member	line:6
+__init__	../timings/arrayqueue.py	/^    def __init__(self):$/;"	kind:member	line:4
+__init__	../timings/dynamicarray.py	/^    def __init__(self):$/;"	kind:member	line:5
+__init__	../timings/linklist.py	/^    def __init__(self, value):$/;"	kind:member	line:2
+__init__	../timings/tictactoe.py	/^    def __init__(self):$/;"	kind:member	line:2
+__init__	../topcoder/abba.py	/^    def __init__(self):$/;"	kind:member	line:4
+__init__	../torisonal.py	/^    def __init__(self, x, y, z):$/;"	kind:member	line:3
+__init__.py	../Graphs/Graph/__init__.py	1;"	kind:file	line:1
+__init__.py	../Graphs/Graph2/__init__.py	1;"	kind:file	line:1
+__iter__	../Graphs/Graph/graph.py	/^    def __iter__(self):$/;"	kind:member	line:33
+__iter__	../Graphs/Graph2/graph.py	/^    def __iter__(self):$/;"	kind:member	line:31
+__iter__	../Graphs/graph.py	/^    def __iter__(self):$/;"	kind:member	line:53
+__iter__	../Tree/binarysearchtree.py	/^    def __iter__(self):$/;"	kind:member	line:55
+__iter__	../Tree2/linkedbinarytree.py	/^    def __iter__(self):$/;"	kind:member	line:150
+__iter__	../iterators/progression.py	/^    def __iter__(self):$/;"	kind:member	line:5
+__iter__	../list/linkedqueue.py	/^    def __iter__(self):$/;"	kind:member	line:62
+__len__	../Tree/binarysearchtree.py	/^    def __len__(self):$/;"	kind:member	line:52
+__len__	../Tree2/linkedbinarytree.py	/^    def __len__(self):$/;"	kind:member	line:50
+__len__	../Tree2/treebase.py	/^    def __len__(self):$/;"	kind:member	line:24
+__len__	../linkedlist.py	/^    def __len__(self):$/;"	kind:member	line:75
+__len__	../list/circularqueue.py	/^    def __len__(self):$/;"	kind:member	line:17
+__len__	../list/favouriteslist.py	/^    def __len__(self):$/;"	kind:member	line:30
+__len__	../list/linkedlistbase.py	/^    def __len__(self):$/;"	kind:member	line:18
+__len__	../list/linkedqueue.py	/^    def __len__(self):$/;"	kind:member	line:44
+__len__	../timings/arrayqueue.py	/^    def __len__(self):$/;"	kind:member	line:9
+__len__	../timings/dynamicarray.py	/^    def __len__(self):$/;"	kind:member	line:10
+__lt__	../Sorting/scratch.py	/^    def __lt__(self, other):$/;"	kind:member	line:12
+__mul__	../complex.py	/^    def __mul__(self, no):$/;"	kind:member	line:19
+__ne__	../Tree2/linkedbinarytree.py	/^        def __ne__(self, other):$/;"	kind:member	line:28
+__ne__	../Tree2/treebase.py	/^        def __ne__(self, o):$/;"	kind:member	line:9
+__ne__	../list/positionallist.py	/^        def __ne__(self, other):$/;"	kind:member	line:15
+__repr__	../Sorting/scratch.py	/^    def __repr__(self):$/;"	kind:member	line:40
+__repr__	../Sorting/scratch.py	/^    def __repr__(self):$/;"	kind:member	line:6
+__setitem__	../Tree/binarysearchtree.py	/^    def __setitem__(self, key, value):$/;"	kind:member	line:80
+__slots__	../Tree2/linkedbinarytree.py	/^        __slots__ = '_element', '_container'$/;"	kind:variable	line:16
+__slots__	../Tree2/linkedbinarytree.py	/^        __slots__ = '_element', '_left', '_right', '_parent'$/;"	kind:variable	line:6
+__slots__	../list/circularqueue.py	/^        __slots__ = ['_element', '_next']$/;"	kind:variable	line:4
+__slots__	../list/favouriteslist.py	/^        __slots__ = '_value', '_count'$/;"	kind:variable	line:5
+__slots__	../list/linkedlistbase.py	/^        __slots__ = '_element', '_prev', '_next'$/;"	kind:variable	line:3
+__slots__	../list/linkedqueue.py	/^        __slots__ = ['_element', '_next']$/;"	kind:variable	line:5
+__str__	../Graphs/Graph/vertex.py	/^    def __str__(self):$/;"	kind:member	line:30
+__str__	../Graphs/Graph2/vertex.py	/^    def __str__(self):$/;"	kind:member	line:12
+__str__	../Graphs/graph.py	/^    def __str__(self):$/;"	kind:member	line:11
+__str__	../complex.py	/^    def __str__(self):$/;"	kind:member	line:32
+__str__	../linkedlist.py	/^    def __str__(self):$/;"	kind:member	line:66
+__str__	../list/orderedlist.py	/^    def __str__(self):$/;"	kind:member	line:15
+__str__	../list/orderedlist.py	/^    def __str__(self):$/;"	kind:member	line:55
+__str__	../timings/dynamicarray.py	/^    def __str__(self):$/;"	kind:member	line:65
+__str__	../timings/tictactoe.py	/^    def __str__(self):$/;"	kind:member	line:6
+__sub__	../complex.py	/^    def __sub__(self, no):$/;"	kind:member	line:14
+__sub__	../torisonal.py	/^    def __sub__(self, no):$/;"	kind:member	line:8
+_add_left	../Tree2/linkedbinarytree.py	/^    def _add_left(self, p, e):$/;"	kind:member	line:85
+_add_right	../Tree2/linkedbinarytree.py	/^    def _add_right(self, p, e):$/;"	kind:member	line:94
+_add_root	../Tree2/linkedbinarytree.py	/^    def _add_root(self, e):$/;"	kind:member	line:77
+_advance	../iterators/arithmetic.py	/^    def _advance(self):$/;"	kind:member	line:8
+_advance	../iterators/fibonacci.py	/^    def _advance(self):$/;"	kind:member	line:8
+_advance	../iterators/geometric.py	/^    def _advance(self):$/;"	kind:member	line:8
+_advance	../iterators/progression.py	/^    def _advance(self):$/;"	kind:member	line:16
+_attach	../Tree2/linkedbinarytree.py	/^    def _attach(self, p, t1, t2):$/;"	kind:member	line:131
+_delete	../Tree2/linkedbinarytree.py	/^    def _delete(self, p):$/;"	kind:member	line:110
+_delete_node	../list/linkedlistbase.py	/^    def _delete_node(self, node):$/;"	kind:member	line:37
+_find_position	../list/favouriteslist.py	/^    def _find_position(self, e):$/;"	kind:member	line:13
+_get	../Tree/binarysearchtree.py	/^    def _get(self, key, currentNode):$/;"	kind:member	line:96
+_insert_between	../list/linkedlistbase.py	/^    def _insert_between(self, e, p, n):$/;"	kind:member	line:24
+_insert_between	../list/positionallist.py	/^    def _insert_between(self, e, predecessor, successor):$/;"	kind:member	line:59
+_is_win	../timings/tictactoe.py	/^    def _is_win(self, mark):$/;"	kind:member	line:25
+_make_array	../timings/dynamicarray.py	/^    def _make_array(self, c):$/;"	kind:member	line:46
+_make_position	../Tree2/linkedbinarytree.py	/^    def _make_position(self, node):$/;"	kind:member	line:43
+_make_position	../list/positionallist.py	/^    def _make_position(self, node):$/;"	kind:member	line:32
+_move_up	../list/favouriteslist.py	/^    def _move_up(self, p):$/;"	kind:member	line:20
+_put	../Tree/binarysearchtree.py	/^    def _put(key, value, currentNode):$/;"	kind:member	line:66
+_remove	../linkedlist.py	/^    def _remove(self, value):$/;"	kind:member	line:41
+_replace	../Tree2/linkedbinarytree.py	/^    def _replace(self, p, e):$/;"	kind:member	line:102
+_resize	../timings/dynamicarray.py	/^    def _resize(self, c):$/;"	kind:member	line:49
+_subtree_inorder	../Tree2/linkedbinarytree.py	/^    def _subtree_inorder(self, p):$/;"	kind:member	line:222
+_subtree_postorder	../Tree2/linkedbinarytree.py	/^    def _subtree_postorder(self, p):$/;"	kind:member	line:206
+_subtree_preorder	../Tree2/linkedbinarytree.py	/^    def _subtree_preorder(self, p):$/;"	kind:member	line:175
+_subtree_preorder_label	../Tree2/linkedbinarytree.py	/^    def _subtree_preorder_label(self, p, depth):$/;"	kind:member	line:181
+_subtree_preorder_label_path	../Tree2/linkedbinarytree.py	/^    def _subtree_preorder_label_path(self, p, depth, path):$/;"	kind:member	line:188
+_validate	../Tree2/linkedbinarytree.py	/^    def _validate(self, p):$/;"	kind:member	line:31
+_validate	../list/positionallist.py	/^    def _validate(self, p):$/;"	kind:member	line:20
+a	../copy.py	/^a = list(string)$/;"	kind:variable	line:24
+a	../weekofcode/minmin.py	/^a = "int"$/;"	kind:variable	line:6
+a1	../weekofcode/melodious.py	/^a1 = ['c','v','c','v','c','v']$/;"	kind:variable	line:26
+a2	../weekofcode/melodious.py	/^a2 = ['v','c','v','c','v','c']$/;"	kind:variable	line:27
+a_hash	../search/missingnumbers.py	/^a_hash = Counter(a_list)$/;"	kind:variable	line:7
+a_len	../search/missingnumbers.py	/^a_len = int(raw_input())$/;"	kind:variable	line:2
+a_list	../search/missingnumbers.py	/^a_list = map(int, raw_input().split())$/;"	kind:variable	line:3
+abba.py	../topcoder/abba.py	1;"	kind:file	line:1
+abba.py	../topcoder/scratchpad/abba.py	1;"	kind:file	line:1
+absolute	../torisonal.py	/^    def absolute(self):$/;"	kind:member	line:19
+absolutepermutation.py	../absolutepermutation.py	1;"	kind:file	line:1
+access	../list/favouriteslist.py	/^    def access(self, e):$/;"	kind:member	line:36
+actualval	../newbomberman.py	/^        actualval = sec$/;"	kind:variable	line:87
+actualval	../newbomberman.py	/^        actualval = sec$/;"	kind:variable	line:91
+actualval	../newbomberman.py	/^    actualval = -1$/;"	kind:variable	line:85
+add	../decorators/sleepdecorator.py	/^def add(a, b):$/;"	kind:function	line:20
+add	../decorators/test.py	/^def add(a, b):$/;"	kind:function	line:12
+add	../linkedlist.py	/^    def add(self, value):$/;"	kind:member	line:26
+add	../list/orderedlist.py	/^    def add(self, value):$/;"	kind:member	line:22
+addEdge	../Graphs/Graph/graph.py	/^    def addEdge(self, v1key, v2key, cost = 0):$/;"	kind:member	line:23
+addEdge	../Graphs/Graph2/graph.py	/^    def addEdge(self, f, t, cost = 0):$/;"	kind:member	line:21
+addEdge	../Graphs/graph.py	/^    def addEdge(self, f, t, cost=0):$/;"	kind:member	line:43
+addLeft	../Tree/binarytree.py	/^    def addLeft(self, obj):$/;"	kind:member	line:7
+addNeighbour	../Graphs/Graph/vertex.py	/^    def addNeighbour(self, vertex, weight):$/;"	kind:member	line:27
+addNeighbour	../Graphs/Graph2/vertex.py	/^    def addNeighbour(self, nbr, weight=0):$/;"	kind:member	line:9
+addNeighbour	../Graphs/graph.py	/^    def addNeighbour(self, vertex, weight = 0):$/;"	kind:member	line:8
+addRight	../Tree/binarytree.py	/^    def addRight(self, obj):$/;"	kind:member	line:15
+addVertex	../Graphs/Graph/graph.py	/^    def addVertex(self, key):$/;"	kind:member	line:8
+addVertex	../Graphs/Graph2/graph.py	/^    def addVertex(self, key):$/;"	kind:member	line:7
+addVertex	../Graphs/graph.py	/^    def addVertex(self, key):$/;"	kind:member	line:28
+add_after	../list/positionallist.py	/^    def add_after(self, p, e):$/;"	kind:member	line:73
+add_before	../list/positionallist.py	/^    def add_before(self, p, e):$/;"	kind:member	line:69
+add_first	../list/positionallist.py	/^    def add_first(self, e):$/;"	kind:member	line:63
+add_last	../list/positionallist.py	/^    def add_last(self, e):$/;"	kind:member	line:66
+after	../list/positionallist.py	/^    def after(self, p):$/;"	kind:member	line:48
+algorithmiccrush.py	../algorithmiccrush.py	1;"	kind:file	line:1
+almostsort.py	../almostsort.py	1;"	kind:file	line:1
+alternatingcharacters.py	../alternatingcharacters.py	1;"	kind:file	line:1
+anagram.py	../anagram.py	1;"	kind:file	line:1
+angle	../torisonal.py	/^    angle = math.acos(x.dot(y) \/ (x.absolute() * y.absolute()))$/;"	kind:variable	line:31
+append	../timings/dynamicarray.py	/^    def append(self, obj):$/;"	kind:member	line:13
+append	../weekofcode/melodious.py	/^def append(array,flag):$/;"	kind:function	line:9
+arithmetic.py	../iterators/arithmetic.py	1;"	kind:file	line:1
+arr	../Sorting/quicksort.py	/^arr = map(int,raw_input().split())$/;"	kind:variable	line:41
+arr	../scratchpad/secondlargest.py	/^    arr = map(int, raw_input().split())$/;"	kind:variable	line:3
+array	../Sorting/countingsort.py	/^array = map(int, raw_input().split())$/;"	kind:variable	line:2
+array	../Sorting/sort.py	/^array = map(int, raw_input().split())$/;"	kind:variable	line:3
+array	../algorithmiccrush.py	/^    array = [0] * length$/;"	kind:variable	line:4
+array	../almostsort.py	/^array = map(int, f.readline().split())$/;"	kind:variable	line:6
+array	../bomberman.py	/^array = []$/;"	kind:variable	line:72
+array	../cut.py	/^    array = filter(lambda x: x > 0, map(lambda x: x - minvalue, array))$/;"	kind:variable	line:7
+array	../cut.py	/^array = map(int,raw_input().split())$/;"	kind:variable	line:2
+array	../depth.py	/^array = []$/;"	kind:variable	line:2
+array	../encryption.py	/^array = []$/;"	kind:variable	line:6
+array	../newbomberman.py	/^            array = swapfor3and5(array)$/;"	kind:variable	line:109
+array	../newbomberman.py	/^            array = swapfor3and5(array)$/;"	kind:variable	line:120
+array	../newbomberman.py	/^array = []$/;"	kind:variable	line:77
+array	../nondivisible.py	/^array = [1,7,2,4]$/;"	kind:variable	line:16
+array	../plus.py	/^array = []$/;"	kind:variable	line:5
+array	../search/binarysearch.py	/^array = map(int, raw_input().split())$/;"	kind:variable	line:1
+array	../search/radiotransmission.py	/^array = map(int, raw_input().split())$/;"	kind:variable	line:2
+array	../sortedalmost.py	/^array = map(int, raw_input().split())$/;"	kind:variable	line:2
+array	../timings/linklist.py	/^array = [1,2,3,4,5]$/;"	kind:variable	line:16
+array	../topcoder/scratchpad/dp.py	/^array = [ sys.maxsize ] * s$/;"	kind:variable	line:6
+array	../weekofcode/rmq.py	/^array = map(int,raw_input().split())$/;"	kind:variable	line:3
+array	../weekofcode/scratchpad/test.py	/^array = [10,12,16,18,30,32]$/;"	kind:variable	line:24
+arraydistance	../weekofcode/pole.py	/^def arraydistance(array, cost, part):$/;"	kind:function	line:5
+arraydistance	../weekofcode/scratchpad/test.py	/^def arraydistance(array, cost, part):$/;"	kind:function	line:1
+arrayqueue.py	../timings/arrayqueue.py	1;"	kind:file	line:1
+availabledic	../plus.py	/^availabledic = sorted(filter(lambda x: len(dic[x]) > 0, dic),reverse=True)$/;"	kind:variable	line:50
+average.py	../scratchpad/average.py	1;"	kind:file	line:1
+b	../weekofcode/minmin.py	/^b = "int"$/;"	kind:variable	line:7
+b_hash	../search/missingnumbers.py	/^b_hash = Counter(b_list)$/;"	kind:variable	line:8
+b_len	../search/missingnumbers.py	/^b_len = int(raw_input())$/;"	kind:variable	line:4
+b_list	../search/missingnumbers.py	/^b_list = map(int,raw_input().split())$/;"	kind:variable	line:5
+before	../list/positionallist.py	/^    def before(self, p):$/;"	kind:member	line:44
+bfs	../Graphs/Graph/bfs.py	/^def bfs(g, start):$/;"	kind:function	line:3
+bfs	../Graphs/Graph/wordladder.py	/^from bfs import bfs$/;"	kind:namespace	line:1
+bfs	../Graphs/Graph2/buildgraph.py	/^def bfs(g, start):$/;"	kind:function	line:26
+bfs.py	../Graphs/Graph/bfs.py	1;"	kind:file	line:1
+bigger.py	../bigger.py	1;"	kind:file	line:1
+binary.py	../binary.py	1;"	kind:file	line:1
+binaryparsertree	../Tree/parsetree.py	/^def binaryparsertree(expr):$/;"	kind:function	line:4
+binarysearch	../binarysearch.py	/^def binarysearch(array, l, r, key):$/;"	kind:function	line:1
+binarysearch	../search/binarysearch.py	/^def binarysearch(array, key):$/;"	kind:function	line:3
+binarysearch	../search/icecreamparlor.py	/^def binarysearch(temparray, key):$/;"	kind:function	line:3
+binarysearch.py	../binarysearch.py	1;"	kind:file	line:1
+binarysearch.py	../search/binarysearch.py	1;"	kind:file	line:1
+binarysearchtree.py	../Tree/binarysearchtree.py	1;"	kind:file	line:1
+binarytree.py	../Tree/binarytree.py	1;"	kind:file	line:1
+binarytree.py	../Tree2/binarytree.py	1;"	kind:file	line:1
+bomberman.py	../bomberman.py	1;"	kind:file	line:1
+breadfirstsearch	../Tree2/linkedbinarytree.py	/^    def breadfirstsearch(self, p):$/;"	kind:member	line:212
+buildGraph	../Graphs/Graph/wordladder.py	/^def buildGraph(wordFile):$/;"	kind:function	line:4
+buildGraph	../Graphs/Graph2/buildgraph.py	/^def buildGraph(wordFile):$/;"	kind:function	line:5
+buildgraph.py	../Graphs/Graph2/buildgraph.py	1;"	kind:file	line:1
+canObtain	../topcoder/abba.py	/^    def canObtain(self, initial, target):$/;"	kind:member	line:7
+candies.py	../weekofcode/candies.py	1;"	kind:file	line:1
+candiestoremove	../weekofcode/candies.py	/^    candiestoremove = map(int, raw_input().split())$/;"	kind:variable	line:3
+capital	../ceaser.py	/^capital = []$/;"	kind:variable	line:6
+cases	../heappermute.py	/^cases = int(raw_input())$/;"	kind:variable	line:15
+ceaser.py	../ceaser.py	1;"	kind:file	line:1
+children	../Tree2/binarytree.py	/^    def children(self, p):$/;"	kind:member	line:20
+children	../Tree2/treebase.py	/^    def children(self, p):$/;"	kind:member	line:21
+circularqueue.py	../list/circularqueue.py	1;"	kind:file	line:1
+classlearning.py	../classlearning.py	1;"	kind:file	line:1
+coinmin	../coinmin.py	/^def coinmin(coins, value):$/;"	kind:function	line:3
+coinmin.py	../coinmin.py	1;"	kind:file	line:1
+coins	../topcoder/scratchpad/dp.py	/^coins = map(int, raw_input().split())$/;"	kind:variable	line:4
+combinations	../alternatingcharacters.py	/^from itertools import combinations$/;"	kind:namespace	line:2
+combinations	../weekofcode/pole.py	/^from itertools import combinations$/;"	kind:namespace	line:2
+combinations	../weekofcode/restartpole.py	/^from itertools import combinations$/;"	kind:namespace	line:1
+command	../scratchpad/list.py	/^        command = raw_input().strip().split(" ")$/;"	kind:variable	line:5
+complex.py	../complex.py	1;"	kind:file	line:1
+consonants	../weekofcode/melodious.py	/^consonants = "b c d f g h j k l m n p q r s t v w x z".split()$/;"	kind:variable	line:3
+contributionfromfullrows	../search/gridland.py	/^    contributionfromfullrows = (r - len(mergeinterval)) * c$/;"	kind:variable	line:27
+contributionsfrompartial	../search/gridland.py	/^    contributionsfrompartial = 0$/;"	kind:variable	line:29
+convert	../bomberman.py	/^def convert(val):$/;"	kind:function	line:7
+convert	../newbomberman.py	/^def convert(val):$/;"	kind:function	line:7
+copy.py	../copy.py	1;"	kind:file	line:1
+cost	../weekofcode/scratchpad/test.py	/^cost = [15,17,18,13,10,1]$/;"	kind:variable	line:25
+costheightarray	../weekofcode/pole.py	/^    costheightarray = []$/;"	kind:variable	line:31
+count	../generatorlearning.py	/^count = 0$/;"	kind:variable	line:8
+count	../increasingseq.py	/^count = 0$/;"	kind:variable	line:3
+count	../larry.py	/^        count = 0$/;"	kind:variable	line:6
+count	../page.py	/^count = 0$/;"	kind:variable	line:15
+count	../search/radiotransmission.py	/^count = 0$/;"	kind:variable	line:7
+count	../sos.py	/^    count = len(string) \/\/ 3$/;"	kind:variable	line:3
+count	../sparsearray.py	/^count = int(raw_input())$/;"	kind:variable	line:3
+count	../weekofcode/melodious.py	/^count = int(raw_input())$/;"	kind:variable	line:1
+counter	../Sorting/countingsort.py	/^counter = [0] * 100$/;"	kind:variable	line:4
+counterhash	../sparsearray.py	/^counterhash = Counter()$/;"	kind:variable	line:4
+countingsort.py	../Sorting/countingsort.py	1;"	kind:file	line:1
+counttoday	../strangead.py	/^def counttoday(day,initial=5):$/;"	kind:function	line:14
+countwords.py	../countwords.py	1;"	kind:file	line:1
+cross	../torisonal.py	/^    def cross(self, no):$/;"	kind:member	line:15
+ctypes	../timings/dynamicarray.py	/^import ctypes$/;"	kind:namespace	line:1
+cut.py	../cut.py	1;"	kind:file	line:1
+d	../algorithmiccrush.py	/^    d = {}$/;"	kind:variable	line:5
+d_time	../timings/dic.py	/^    d_time = t.timeit(number=1000)$/;"	kind:variable	line:9
+data	../revtest.py	/^data = list(inputdata)$/;"	kind:variable	line:3
+date1	../datediff.py	/^date1 = datetime(*[i for i in reversed(map(int,raw_input().split()))])$/;"	kind:variable	line:4
+date2	../datediff.py	/^date2 = datetime(*[i for i in reversed(map(int,raw_input().split()))])$/;"	kind:variable	line:3
+datediff.py	../datediff.py	1;"	kind:file	line:1
+datetime	../datediff.py	/^from datetime import datetime$/;"	kind:namespace	line:1
+dectobinary	../binary.py	/^def dectobinary(val):$/;"	kind:function	line:1
+delete	../Tree/binarysearchtree.py	/^    def delete(self, key):$/;"	kind:member	line:112
+delete	../list/positionallist.py	/^    def delete(self, p):$/;"	kind:member	line:77
+delx	../classlearning.py	/^    def delx(self):$/;"	kind:member	line:11
+depth	../Tree2/treebase.py	/^    def depth(self, p):$/;"	kind:member	line:36
+depth.py	../depth.py	1;"	kind:file	line:1
+deque	../Graphs/Graph/bfs.py	/^from collections import deque$/;"	kind:namespace	line:1
+deque	../Graphs/Graph2/buildgraph.py	/^from collections import deque$/;"	kind:namespace	line:3
+dequeue	../list/circularqueue.py	/^    def dequeue(self):$/;"	kind:member	line:37
+dequeue	../list/linkedqueue.py	/^    def dequeue(self):$/;"	kind:member	line:27
+dequeue	../timings/arrayqueue.py	/^    def dequeue(self):$/;"	kind:member	line:18
+dic	../plus.py	/^dic = {}$/;"	kind:variable	line:10
+dic	../weekofcode/restartpole.py	/^    dic = {}$/;"	kind:variable	line:8
+dic.py	../timings/dic.py	1;"	kind:file	line:1
+dict	../page.py	/^dict = []$/;"	kind:variable	line:9
+dicvalue	../plus.py	/^            dicvalue = min(row-i,i-0,column-j,j-0) * 4 + 1$/;"	kind:variable	line:27
+diff.py	../diff.py	1;"	kind:file	line:1
+diff1	../scratchpad/setdiff.py	/^    diff1 = arr1.difference(arr2)$/;"	kind:variable	line:9
+diff2	../scratchpad/setdiff.py	/^    diff2 = arr2.difference(arr1)$/;"	kind:variable	line:10
+dip	../sortedalmost.py	/^dip = []$/;"	kind:variable	line:8
+divisibleby15	../project euler/1.py	/^    divisibleby15 = 15 * ((value \/\/ 15) * ((value \/\/ 15) + 1) \/\/ 2)$/;"	kind:variable	line:6
+divisibleby3	../project euler/1.py	/^    divisibleby3 = 3 * ((value \/\/ 3) * ((value \/\/ 3) + 1) \/\/ 2)$/;"	kind:variable	line:4
+divisibleby5	../project euler/1.py	/^    divisibleby5 = 5 * ((value \/\/ 5) * ((value \/\/ 5) + 1) \/\/ 2)$/;"	kind:variable	line:5
+division	../complex.py	/^from __future__ import division$/;"	kind:namespace	line:1
+dot	../torisonal.py	/^    def dot(self, no):$/;"	kind:member	line:12
+dp.py	../topcoder/scratchpad/dp.py	1;"	kind:file	line:1
+dummyarray	../scratchpad/list.py	/^    dummyarray = []$/;"	kind:variable	line:3
+dynamicarray.py	../timings/dynamicarray.py	1;"	kind:file	line:1
+element	../Tree2/linkedbinarytree.py	/^        def element(self):$/;"	kind:member	line:21
+element	../Tree2/treebase.py	/^        def element(self):$/;"	kind:member	line:3
+element	../list/positionallist.py	/^        def element(self):$/;"	kind:member	line:9
+elems	../almostsort.py	/^elems = []$/;"	kind:variable	line:9
+encryption.py	../encryption.py	1;"	kind:file	line:1
+enqueue	../list/circularqueue.py	/^    def enqueue(self, val):$/;"	kind:member	line:20
+enqueue	../list/linkedqueue.py	/^    def enqueue(self, val):$/;"	kind:member	line:16
+enqueue	../timings/arrayqueue.py	/^    def enqueue(self):$/;"	kind:member	line:28
+enqueue	../timings/arrayqueue.py	/^    def enqueue(self, obj):$/;"	kind:member	line:12
+evaluate	../Tree/parsetree.py	/^def evaluate(parserTree):$/;"	kind:function	line:32
+f	../almostsort.py	/^f = open('input17.txt','r')$/;"	kind:variable	line:4
+fact	../bigger.py	/^def fact(x):$/;"	kind:function	line:1
+favouriteslist.py	../list/favouriteslist.py	1;"	kind:file	line:1
+fibonacci	../project euler/2.py	/^def fibonacci(n):$/;"	kind:function	line:1
+fibonacci.py	../iterators/fibonacci.py	1;"	kind:file	line:1
+filter.py	../scratchpad/filter.py	1;"	kind:file	line:1
+findSuccessor	../Tree/binarysearchtree.py	/^    def findSuccessor(self):$/;"	kind:member	line:126
+findifBinA	../matrix.py	/^def findifBinA(matrixa, matrixb):$/;"	kind:function	line:3
+findpeak	../peakfinding1d.py	/^def findpeak/;"	kind:function	line:3
+findrank	../bigger.py	/^def findrank(string):$/;"	kind:function	line:11
+findsmallercounttoright	../bigger.py	/^def findsmallercounttoright(string,index):$/;"	kind:function	line:4
+fine	../datediff.py	/^    fine = 10000$/;"	kind:variable	line:14
+fine	../datediff.py	/^    fine = 15 * (date2-date1).days$/;"	kind:variable	line:10
+fine	../datediff.py	/^    fine = 500 * (date2.month - date1.month)$/;"	kind:variable	line:12
+fine	../datediff.py	/^fine = 0$/;"	kind:variable	line:6
+first	../list/circularqueue.py	/^    def first(self):$/;"	kind:member	line:49
+first	../list/linkedqueue.py	/^    def first(self):$/;"	kind:member	line:47
+first	../list/positionallist.py	/^    def first(self):$/;"	kind:member	line:38
+firstindex	../search/icecreamparlor.py	/^            firstindex = icoriginalarray.index(temp[i])$/;"	kind:variable	line:37
+firstindex	../search/icecreamparlor.py	/^    firstindex = None$/;"	kind:variable	line:26
+found	../plus.py	/^                        found = all([m not in dic[availabledic[j]][l] for m in dic[availabledic[j]][k]])$/;"	kind:variable	line:68
+found	../plus.py	/^                    found = all([m not in dic[availabledic[j]][l] for m in dic[availabledic[i]][k]])$/;"	kind:variable	line:81
+found	../plus.py	/^                found = False$/;"	kind:variable	line:65
+foundindex	../search/icecreamparlor.py	/^            foundindex = icoriginalarray.index(temp[foundindex])$/;"	kind:variable	line:35
+foundindex	../search/icecreamparlor.py	/^        foundindex = binarysearch(temp, remaining) - 1$/;"	kind:variable	line:29
+foundindex	../search/icecreamparlor.py	/^    foundindex = None$/;"	kind:variable	line:25
+game	../timings/tictactoe.py	/^    game = TicTacToe()$/;"	kind:variable	line:44
+genLegalMoves	../Graphs/Knights/knightgraph.py	/^def genLegalMoves(x, y, boardsize, tup):$/;"	kind:function	line:23
+generatorlearning.py	../generatorlearning.py	1;"	kind:file	line:1
+geometric.py	../iterators/geometric.py	1;"	kind:file	line:1
+get	../Tree/binarysearchtree.py	/^    def get(self, key):$/;"	kind:member	line:86
+getColor	../Graphs/Graph/vertex.py	/^    def getColor(self):$/;"	kind:member	line:24
+getConnections	../Graphs/Graph/vertex.py	/^    def getConnections(self):$/;"	kind:member	line:33
+getConnections	../Graphs/Graph2/vertex.py	/^    def getConnections(self):$/;"	kind:member	line:15
+getConnections	../Graphs/graph.py	/^    def getConnections(self):$/;"	kind:member	line:14
+getData	../linkedlist.py	/^    def getData(self):$/;"	kind:member	line:6
+getDistance	../Graphs/Graph/vertex.py	/^    def getDistance(self):$/;"	kind:member	line:9
+getId	../Graphs/Graph/vertex.py	/^    def getId(self):$/;"	kind:member	line:36
+getId	../Graphs/Graph2/vertex.py	/^    def getId(self):$/;"	kind:member	line:18
+getId	../Graphs/graph.py	/^    def getId(self):$/;"	kind:member	line:17
+getLeftChild	../Tree/binarytree.py	/^    def getLeftChild(self):$/;"	kind:member	line:26
+getNext	../linkedlist.py	/^    def getNext(self):$/;"	kind:member	line:9
+getPredecessor	../Graphs/Graph/vertex.py	/^    def getPredecessor(self):$/;"	kind:member	line:18
+getRightChild	../Tree/binarytree.py	/^    def getRightChild(self):$/;"	kind:member	line:23
+getRootVal	../Tree/binarytree.py	/^    def getRootVal(self):$/;"	kind:member	line:32
+getVertex	../Graphs/Graph/graph.py	/^    def getVertex(self, key):$/;"	kind:member	line:17
+getVertex	../Graphs/Graph2/graph.py	/^    def getVertex(self, n):$/;"	kind:member	line:12
+getVertex	../Graphs/graph.py	/^    def getVertex(self, key):$/;"	kind:member	line:34
+getVertices	../Graphs/Graph/graph.py	/^    def getVertices(self):$/;"	kind:member	line:30
+getVertices	../Graphs/Graph2/graph.py	/^    def getVertices(self):$/;"	kind:member	line:28
+getVertices	../Graphs/graph.py	/^    def getVertices(self):$/;"	kind:member	line:50
+getWeight	../Graphs/Graph/vertex.py	/^    def getWeight(self, vertex):$/;"	kind:member	line:39
+getWeight	../Graphs/Graph2/vertex.py	/^    def getWeight(self, nbr):$/;"	kind:member	line:21
+getWeight	../Graphs/graph.py	/^    def getWeight(self, vertex):$/;"	kind:member	line:20
+getx	../classlearning.py	/^    def getx(self):$/;"	kind:member	line:5
+graph	../Graphs/Graph/wordladder.py	/^graph = buildGraph(".\/wordFile.txt")$/;"	kind:variable	line:27
+graph.py	../Graphs/Graph/graph.py	1;"	kind:file	line:1
+graph.py	../Graphs/Graph2/graph.py	1;"	kind:file	line:1
+graph.py	../Graphs/graph.py	1;"	kind:file	line:1
+gridland.py	../search/gridland.py	1;"	kind:file	line:1
+group	../page.py	/^def group(lst, n):$/;"	kind:function	line:1
+handle_comment	../htmlcomment.py	/^    def handle_comment(self, data):$/;"	kind:member	line:5
+handle_data	../htmlcomment.py	/^    def handle_data(self, data):$/;"	kind:member	line:13
+handle_starttag	../htmlparser.py	/^    def handle_starttag(self,tag,attrs):$/;"	kind:member	line:5
+hasAnyChildren	../Tree/binarysearchtree.py	/^    def hasAnyChildren(self):$/;"	kind:member	line:27
+hasBothChildren	../Tree/binarysearchtree.py	/^    def hasBothChildren(self):$/;"	kind:member	line:30
+hasLeftChild	../Tree/binarysearchtree.py	/^    def hasLeftChild(self):$/;"	kind:member	line:9
+hasRightChild	../Tree/binarysearchtree.py	/^    def hasRightChild(self):$/;"	kind:member	line:12
+head	../list/linkedlistbase.py	/^    def head(self):$/;"	kind:member	line:31
+heappermute.py	../heappermute.py	1;"	kind:file	line:1
+height	../Tree2/treebase.py	/^    def height(self, p=None):$/;"	kind:member	line:42
+htmlcomment.py	../htmlcomment.py	1;"	kind:file	line:1
+htmlparser.py	../htmlparser.py	1;"	kind:file	line:1
+i	../almostsort.py	/^    i = 1$/;"	kind:variable	line:22
+i	../encryption.py	/^i = int(columns)$/;"	kind:variable	line:8
+i	../search/radiotransmission.py	/^i = 0$/;"	kind:variable	line:6
+i	../superreducedstring.py	/^        i = 0$/;"	kind:variable	line:6
+i	../superreducedstring.py	/^i = 0$/;"	kind:variable	line:2
+iccount	../search/icecreamparlor.py	/^    iccount = int(raw_input())$/;"	kind:variable	line:21
+icecreamparlor.py	../search/icecreamparlor.py	1;"	kind:file	line:1
+icoriginalarray	../search/icecreamparlor.py	/^    icoriginalarray = map(int, raw_input().split())$/;"	kind:variable	line:22
+increasingseq.py	../increasingseq.py	1;"	kind:file	line:1
+index	../topcoder/scratchpad/dp.py	/^index = [-1] * s$/;"	kind:variable	line:10
+infixToPostfix	../stack/infixtopostfix.py	/^def infixToPostfix(infixexpr):$/;"	kind:function	line:30
+infixtopostfix.py	../stack/infixtopostfix.py	1;"	kind:file	line:1
+initialnode	../timings/linklist.py	/^    initialnode = initialnode.next$/;"	kind:variable	line:19
+initialnode	../timings/linklist.py	/^initialnode = test$/;"	kind:variable	line:15
+inp	../topcoder/scratchpad/abba.py	/^inp = raw_input()$/;"	kind:variable	line:14
+inputdata	../revtest.py	/^inputdata = "St.Ri.g.n"$/;"	kind:variable	line:1
+inputs	../search/gridland.py	/^    inputs = []$/;"	kind:variable	line:5
+inputs	../search/gridland.py	/^    inputs = sorted(inputs, key=itemgetter(0,1))$/;"	kind:variable	line:9
+insert	../timings/dynamicarray.py	/^    def insert(self, k, value):$/;"	kind:member	line:19
+insertion_sort	../list/positionallist.py	/^    def insertion_sort(L):$/;"	kind:member	line:86
+intlen	../karprekar.py	/^def intlen(n):$/;"	kind:function	line:1
+intlen	../timeinwords.py	/^def intlen(n):$/;"	kind:function	line:2
+inversionarray	../larry.py	/^    inversionarray = []$/;"	kind:variable	line:4
+isAnagram	../anagram.py	/^def isAnagram(string1, string2):$/;"	kind:function	line:4
+isEmpty	../Sorting/scratch.py	/^    def isEmpty(self):$/;"	kind:member	line:31
+isEmpty	../linkedlist.py	/^    def isEmpty(self):$/;"	kind:member	line:23
+isEmpty	../list/orderedlist.py	/^    def isEmpty(self):$/;"	kind:member	line:9
+isEmpty	../stack/infixtopostfix.py	/^    def isEmpty(self):$/;"	kind:member	line:25
+isLast	../list/orderedlist.py	/^    def isLast(self):$/;"	kind:member	line:12
+isLeaf	../Tree/binarysearchtree.py	/^    def isLeaf(self):$/;"	kind:member	line:24
+isLeftChild	../Tree/binarysearchtree.py	/^    def isLeftChild(self):$/;"	kind:member	line:15
+isRightChild	../Tree/binarysearchtree.py	/^    def isRightChild(self):$/;"	kind:member	line:18
+isRoot	../Tree/binarysearchtree.py	/^    def isRoot(self):$/;"	kind:member	line:21
+is_empty	../Tree2/treebase.py	/^    def is_empty(self):$/;"	kind:member	line:33
+is_empty	../list/circularqueue.py	/^    def is_empty(self):$/;"	kind:member	line:14
+is_empty	../list/favouriteslist.py	/^    def is_empty(self):$/;"	kind:member	line:33
+is_empty	../list/linkedlistbase.py	/^    def is_empty(self):$/;"	kind:member	line:21
+is_empty	../list/linkedqueue.py	/^    def is_empty(self):$/;"	kind:member	line:40
+is_empty	../timings/arrayqueue.py	/^    def is_empty(self):$/;"	kind:member	line:15
+is_leaf	../Tree2/treebase.py	/^    def is_leaf(self, p):$/;"	kind:member	line:30
+is_root	../Tree2/treebase.py	/^    def is_root(self, p):$/;"	kind:member	line:27
+itemgetter	../search/gridland.py	/^from operator import itemgetter$/;"	kind:namespace	line:1
+items	../larry.py	/^    items = map(int,raw_input().split())$/;"	kind:variable	line:3
+iter	../list/positionallist.py	/^    def iter(self):$/;"	kind:member	line:52
+iterpermute.py	../iterpermute.py	1;"	kind:file	line:1
+jump	../ceaser.py	/^jump = int(raw_input())$/;"	kind:variable	line:3
+karprekar.py	../karprekar.py	1;"	kind:file	line:1
+knapsack	../knapsack.py	/^def knapsack(values, weights, total):$/;"	kind:function	line:1
+knapsack	../knapsack1.py	/^def knapsack(weights,values, key):$/;"	kind:function	line:1
+knapsack.py	../knapsack.py	1;"	kind:file	line:1
+knapsack1.py	../knapsack1.py	1;"	kind:file	line:1
+knightGraph	../Graphs/Knights/knightgraph.py	/^def knightGraph(boardSize, tup):$/;"	kind:function	line:9
+knightgraph.py	../Graphs/Knights/knightgraph.py	1;"	kind:file	line:1
+l	../list/runner.py	/^l = OrderedList()$/;"	kind:variable	line:7
+larry.py	../larry.py	1;"	kind:file	line:1
+last	../list/positionallist.py	/^    def last(self):$/;"	kind:member	line:41
+lbt	../Tree2/treerunner.py	/^lbt = linkedbinarytree.LinkedBinaryTree()$/;"	kind:variable	line:2
+left	../Tree2/binarytree.py	/^    def left(self, p):$/;"	kind:member	line:4
+left	../Tree2/linkedbinarytree.py	/^    def left(self, p):$/;"	kind:member	line:56
+left_10	../Tree2/treerunner.py	/^left_10 = lbt._add_left(root, 5)$/;"	kind:variable	line:5
+left_15	../Tree2/treerunner.py	/^left_15 = lbt._add_left(right_10, 11)$/;"	kind:variable	line:11
+left_5	../Tree2/treerunner.py	/^left_5 = lbt._add_left(left_10, 3)$/;"	kind:variable	line:8
+legalCoord	../Graphs/Knights/knightgraph.py	/^def legalCoord(a, boardsize):$/;"	kind:function	line:39
+length	../Sorting/quicksort.py	/^length = int(raw_input())$/;"	kind:variable	line:40
+length	../Sorting/sort.py	/^length = int(raw_input())$/;"	kind:variable	line:1
+length	../Tree/binarysearchtree.py	/^    def length(self):$/;"	kind:member	line:49
+length	../almostsort.py	/^length = int(f.readline())$/;"	kind:variable	line:5
+length	../alternatingcharacters.py	/^length = int(raw_input())$/;"	kind:variable	line:4
+length	../ceaser.py	/^length = int(raw_input())$/;"	kind:variable	line:1
+length	../larry.py	/^    length = int(raw_input())$/;"	kind:variable	line:2
+length	../sortedalmost.py	/^length = int(raw_input())$/;"	kind:variable	line:1
+line	../scratchpad/average.py	/^        line = raw_input().split(" ")$/;"	kind:variable	line:5
+linkedbinarytree	../Tree2/treerunner.py	/^import linkedbinarytree$/;"	kind:namespace	line:1
+linkedbinarytree.py	../Tree2/linkedbinarytree.py	1;"	kind:file	line:1
+linkedlist.py	../linkedlist.py	1;"	kind:file	line:1
+linkedlistbase.py	../list/linkedlistbase.py	1;"	kind:file	line:1
+linkedqueue.py	../list/linkedqueue.py	1;"	kind:file	line:1
+linklist.py	../timings/linklist.py	1;"	kind:file	line:1
+list.py	../scratchpad/list.py	1;"	kind:file	line:1
+lista	../karprekar.py	/^lista = []$/;"	kind:variable	line:16
+location	../search/radiotransmission.py	/^    location = x[i] + ran$/;"	kind:variable	line:11
+location	../search/radiotransmission.py	/^    location = x[i] + ran$/;"	kind:variable	line:18
+location	../search/radiotransmission.py	/^location = 0$/;"	kind:variable	line:8
+log	../decorators/test.py	/^def log(somefunction):$/;"	kind:function	line:2
+longest_increasing_subsequence.py	../longest_increasing_subsequence.py	1;"	kind:file	line:1
+longestcommonsubsequence	../longestcommonsubsequence.py	/^def longestcommonsubsequence(sequence1, sequence2):$/;"	kind:function	line:1
+longestcommonsubsequence.py	../longestcommonsubsequence.py	1;"	kind:file	line:1
+longestincreasingsubsequence	../longest_increasing_subsequence.py	/^def longestincreasingsubsequence(array):$/;"	kind:function	line:1
+lst_time	../timings/dic.py	/^    lst_time = t.timeit(number=1000)$/;"	kind:variable	line:7
+mark	../scratchpad/secondsmallest.py	/^    mark = float(raw_input())$/;"	kind:variable	line:38
+mark	../timings/tictactoe.py	/^    def mark(self, i, j):$/;"	kind:member	line:10
+marks	../scratchpad/average.py	/^        marks = map(int, marks)$/;"	kind:variable	line:7
+matchindex	../diff.py	/^        matchindex = i$/;"	kind:variable	line:11
+matchindex	../diff.py	/^matchindex = 0$/;"	kind:variable	line:6
+math	../complex.py	/^import math$/;"	kind:namespace	line:2
+math	../encryption.py	/^import math$/;"	kind:namespace	line:1
+math	../squarenumbers.py	/^import math$/;"	kind:namespace	line:1
+math	../timings/dynamicarray.py	/^import math$/;"	kind:namespace	line:2
+math	../torisonal.py	/^import math$/;"	kind:namespace	line:1
+matrix.py	../matrix.py	1;"	kind:file	line:1
+matrixA	../matrix.py	/^    matrixA = [raw_input() for _ in range(row1) ]$/;"	kind:variable	line:43
+matrixB	../matrix.py	/^    matrixB = [raw_input() for _ in range(row2) ]$/;"	kind:variable	line:45
+max_len	../alternatingcharacters.py	/^                max_len = max(max_len, len(t))$/;"	kind:variable	line:14
+max_len	../alternatingcharacters.py	/^max_len = 0$/;"	kind:variable	line:9
+maxshiftcheck	../plus.py	/^            maxshiftcheck = min(row-1-i,i-0,column-1-j,j-0)$/;"	kind:variable	line:22
+maxval	../larry.py	/^    maxval = sum(inversionarray)$/;"	kind:variable	line:12
+maxval	../plus.py	/^                                maxval = test$/;"	kind:variable	line:73
+maxval	../plus.py	/^                            maxval = test$/;"	kind:variable	line:86
+maxval	../plus.py	/^maxval = 0$/;"	kind:variable	line:52
+melodious.py	../weekofcode/melodious.py	1;"	kind:file	line:1
+mergeinterval	../search/gridland.py	/^    mergeinterval = {}$/;"	kind:variable	line:4
+minmin	../weekofcode/minmin.py	/^def minmin(a, b):$/;"	kind:function	line:1
+minmin.py	../weekofcode/minmin.py	1;"	kind:file	line:1
+minsum	../weekofcode/pole.py	/^            minsum = s$/;"	kind:variable	line:48
+minsum	../weekofcode/pole.py	/^    minsum = sys.maxsize$/;"	kind:variable	line:44
+minvalue	../cut.py	/^    minvalue = min(array)$/;"	kind:variable	line:6
+missingnumbers.py	../search/missingnumbers.py	1;"	kind:file	line:1
+mod	../complex.py	/^    def mod(self):$/;"	kind:member	line:23
+my_function	../decorators/timedecorator.py	/^def my_function():$/;"	kind:function	line:17
+myarray	../peakfinding1d.py	/^myarray = [1,2,3,4,3,2,1,5,6,2,1]$/;"	kind:variable	line:1
+n	../copy.py	/^n = len(string)$/;"	kind:variable	line:23
+n	../depth.py	/^n = int(raw_input())$/;"	kind:variable	line:1
+n	../matrix.py	/^n = int(raw_input())$/;"	kind:variable	line:40
+n	../scratchpad/average.py	/^    n = int(raw_input())$/;"	kind:variable	line:2
+n	../scratchpad/secondlargest.py	/^    n = int(raw_input())$/;"	kind:variable	line:2
+n	../scratchpad/secondsmallest.py	/^n = int(raw_input())$/;"	kind:variable	line:35
+name	../scratchpad/secondsmallest.py	/^    name = str(raw_input())$/;"	kind:variable	line:37
+newbomberman.py	../newbomberman.py	1;"	kind:file	line:1
+next	../iterators/progression.py	/^    def next(self):$/;"	kind:member	line:8
+next	../list/linkedqueue.py	/^    def next(self):$/;"	kind:member	line:54
+next	../timings/linklist.py	/^    def next(self):$/;"	kind:member	line:6
+next_permutation	../bigger.py	/^def next_permutation(string):$/;"	kind:function	line:21
+next_permutation	../nextpermutation.py	/^def next_permutation(string):$/;"	kind:function	line:3
+nextpermutation.py	../nextpermutation.py	1;"	kind:file	line:1
+nextval	../bigger.py	/^nextval = next_permutation(list(string))$/;"	kind:variable	line:39
+node	../timings/linklist.py	/^class node:$/;"	kind:class	line:1
+nondivisible.py	../nondivisible.py	1;"	kind:file	line:1
+nonrecursiveheappermute	../nonrecursivepermute.py	/^def nonrecursiveheappermute(array):$/;"	kind:function	line:1
+nonrecursivepermute.py	../nonrecursivepermute.py	1;"	kind:file	line:1
+num_children	../Tree2/linkedbinarytree.py	/^    def num_children(self, p=None):$/;"	kind:member	line:66
+num_children	../Tree2/treebase.py	/^    def num_children(self, p):$/;"	kind:member	line:18
+number	../generatorlearning.py	/^number = 1012$/;"	kind:variable	line:7
+numinwords	../timeinwords.py	/^def numinwords(time):$/;"	kind:function	line:11
+numsplit	../karprekar.py	/^def numsplit(n,pos):$/;"	kind:function	line:10
+o	../Sorting/scratch.py	/^    o = XII()$/;"	kind:variable	line:44
+obj	../iterators/arithmetic.py	/^    obj = ArithmeticProgression(2, 5)$/;"	kind:variable	line:12
+obj	../iterators/fibonacci.py	/^    obj = Fibonacci()$/;"	kind:variable	line:13
+obj	../iterators/geometric.py	/^    obj = GeometricProgression(1\/3, 3)$/;"	kind:variable	line:12
+obj	../iterators/progression.py	/^    obj = Progression()$/;"	kind:variable	line:23
+obj	../list/linkedqueue.py	/^    obj = LinkedQueue()$/;"	kind:variable	line:67
+operation	../diff.py	/^operation = 0$/;"	kind:variable	line:7
+operator	../Tree/parsetree.py	/^import operator$/;"	kind:namespace	line:2
+orderedlist.py	../list/orderedlist.py	1;"	kind:file	line:1
+originalstring	../sos.py	/^    originalstring = "SOS" * count$/;"	kind:variable	line:4
+os	../Graphs/Knights/knightgraph.py	/^import os$/;"	kind:namespace	line:2
+out	../topcoder/scratchpad/abba.py	/^out = raw_input().strip()$/;"	kind:variable	line:15
+outputstring	../ceaser.py	/^outputstring = []$/;"	kind:variable	line:14
+page.py	../page.py	1;"	kind:file	line:1
+parent	../Tree2/linkedbinarytree.py	/^    def parent(self, p):$/;"	kind:member	line:62
+parent	../Tree2/treebase.py	/^    def parent(self, p):$/;"	kind:member	line:15
+parsetree.py	../Tree/parsetree.py	1;"	kind:file	line:1
+part	../weekofcode/scratchpad/test.py	/^part = [10,32]$/;"	kind:variable	line:26
+partition	../Sorting/quicksort.py	/^def partition(arr, low, high):$/;"	kind:function	line:1
+peakfinding1d.py	../peakfinding1d.py	1;"	kind:file	line:1
+peek	../stack/infixtopostfix.py	/^    def peek(self):$/;"	kind:member	line:22
+permutation	../absolutepermutation.py	/^def permutation(arr):$/;"	kind:function	line:1
+permutation	../heappermute.py	/^def permutation(arr, l):$/;"	kind:function	line:1
+permutation	../iterpermute.py	/^def permutation(array, l, r):$/;"	kind:function	line:1
+permutation	../permutation.py	/^def permutation(arr):$/;"	kind:function	line:1
+permutation	../straightforward.py	/^def permutation(n, k):$/;"	kind:function	line:1
+permutation.py	../permutation.py	1;"	kind:file	line:1
+permute	../absolutepermutation.py	/^    def permute(array,l):$/;"	kind:function	line:3
+permute	../copy.py	/^def permute(a, l, r):$/;"	kind:function	line:12
+permute	../permutation.py	/^    def permute(array, l, r):$/;"	kind:function	line:3
+plus.py	../plus.py	1;"	kind:file	line:1
+points	../torisonal.py	/^    points = list()$/;"	kind:variable	line:23
+pole.py	../weekofcode/pole.py	1;"	kind:file	line:1
+polecostarray	../weekofcode/pole.py	/^    polecostarray = []$/;"	kind:variable	line:33
+polecostarray	../weekofcode/restartpole.py	/^    polecostarray = []$/;"	kind:variable	line:4
+poleheightarray	../weekofcode/pole.py	/^    poleheightarray = []$/;"	kind:variable	line:30
+polelist	../weekofcode/pole.py	/^    polelist = map(lambda x: x[0], polecostarray)$/;"	kind:variable	line:40
+polelist	../weekofcode/restartpole.py	/^    polelist = map(lambda x: x[0], polecostarray)$/;"	kind:variable	line:22
+pop	../stack/infixtopostfix.py	/^    def pop(self):$/;"	kind:member	line:18
+pop	../timings/dynamicarray.py	/^    def pop(self):$/;"	kind:member	line:37
+popat	../timings/dynamicarray.py	/^    def popat(self, k):$/;"	kind:member	line:27
+posToNodeId	../Graphs/Knights/knightgraph.py	/^def posToNodeId(row, column, boardsize):$/;"	kind:function	line:20
+positionallist.py	../list/positionallist.py	1;"	kind:file	line:1
+positions	../Tree2/linkedbinarytree.py	/^    def positions(self):$/;"	kind:member	line:154
+possible	../topcoder/scratchpad/abba.py	/^def possible(inp, out):$/;"	kind:function	line:4
+postorder	../Tree/parsetree.py	/^def postorder(parserTree):$/;"	kind:function	line:62
+ppc	../page.py	/^ppc = map(int,raw_input().split())$/;"	kind:variable	line:7
+preorder	../Tree/parsetree.py	/^def preorder(parserTree):$/;"	kind:function	line:54
+preorder	../Tree2/linkedbinarytree.py	/^    def preorder(self, ordering='preorder'):$/;"	kind:member	line:157
+preorder_label	../Tree2/linkedbinarytree.py	/^    def preorder_label(self, p, depth, path):$/;"	kind:member	line:196
+print_function	../scratchpad/setdiff.py	/^from __future__ import print_function$/;"	kind:namespace	line:2
+print_progression	../iterators/progression.py	/^    def print_progression(self, n):$/;"	kind:member	line:19
+printexpr	../Tree/parsetree.py	/^def printexpr(parserTree):$/;"	kind:function	line:46
+progression.py	../iterators/progression.py	1;"	kind:file	line:1
+push	../stack/infixtopostfix.py	/^    def push(self, string):$/;"	kind:member	line:14
+put	../Tree/binarysearchtree.py	/^    def put(self, key, value):$/;"	kind:member	line:58
+queries	../sparsearray.py	/^queries = int(raw_input())$/;"	kind:variable	line:10
+query_name	../scratchpad/average.py	/^    query_name = raw_input()$/;"	kind:variable	line:10
+quicksort.py	../Sorting/quicksort.py	1;"	kind:file	line:1
+radiotransmission.py	../search/radiotransmission.py	1;"	kind:file	line:1
+random	../timings/dic.py	/^    t = timeit.Timer("random.randrange(%d) in x" % (i,), "from __main__ import random, x")$/;"	kind:namespace	line:5
+random	../timings/dic.py	/^import random$/;"	kind:namespace	line:2
+re	../Graphs/Knights/knightgraph.py	/^import re$/;"	kind:namespace	line:3
+re	../countwords.py	/^import re$/;"	kind:namespace	line:1
+re	../diff.py	/^import re$/;"	kind:namespace	line:1
+re	../htmlcomment.py	/^import re$/;"	kind:namespace	line:2
+re	../htmlparser.py	/^import re$/;"	kind:namespace	line:2
+re	../matrix.py	/^import re$/;"	kind:namespace	line:1
+re	../stack/infixtopostfix.py	/^import re$/;"	kind:namespace	line:3
+re	../timeinwords.py	/^import re$/;"	kind:namespace	line:1
+re	../topcoder/abba.py	/^import re$/;"	kind:namespace	line:1
+re	../topcoder/scratchpad/abba.py	/^import re$/;"	kind:namespace	line:2
+remainder	../nondivisible.py	/^remainder = map(lambda x: x%k, array)$/;"	kind:variable	line:17
+remaining	../search/icecreamparlor.py	/^        remaining = value - temp[i]$/;"	kind:variable	line:28
+remove	../Tree/binarysearchtree.py	/^    def remove(self, currentNode):$/;"	kind:member	line:137
+remove	../linkedlist.py	/^    def remove(self, value):$/;"	kind:member	line:59
+remove	../list/favouriteslist.py	/^    def remove(self, e):$/;"	kind:member	line:43
+removeElement	../scratchpad/filter.py	/^    def removeElement(self, A, B):$/;"	kind:member	line:5
+rep	../bomberman.py	/^    def rep(k):$/;"	kind:function	line:13
+rep	../newbomberman.py	/^    def rep(k):$/;"	kind:function	line:13
+replace	../list/positionallist.py	/^    def replace(self, p, e):$/;"	kind:member	line:80
+replaceNodeData	../Tree/binarysearchtree.py	/^    def replaceNodeData(self, key, value, lc, rc):$/;"	kind:member	line:33
+replenished	../weekofcode/candies.py	/^    replenished = 0$/;"	kind:variable	line:5
+resize	../timings/arrayqueue.py	/^    def resize(self, c):$/;"	kind:member	line:36
+restartpole.py	../weekofcode/restartpole.py	1;"	kind:file	line:1
+result	../search/missingnumbers.py	/^result = []$/;"	kind:variable	line:12
+returnvalue1	../weekofcode/melodious.py	/^    returnvalue1 = append(returnvalue1,a1[i])$/;"	kind:variable	line:30
+returnvalue1	../weekofcode/melodious.py	/^returnvalue1 = []$/;"	kind:variable	line:6
+returnvalue2	../weekofcode/melodious.py	/^    returnvalue2 = append(returnvalue2,a2[i])$/;"	kind:variable	line:31
+returnvalue2	../weekofcode/melodious.py	/^returnvalue2 = []$/;"	kind:variable	line:7
+reverse	../reverse.py	/^def reverse(num):$/;"	kind:function	line:1
+reverse.py	../reverse.py	1;"	kind:file	line:1
+revtest.py	../revtest.py	1;"	kind:file	line:1
+right	../Tree2/binarytree.py	/^    def right(self, p):$/;"	kind:member	line:7
+right	../Tree2/linkedbinarytree.py	/^    def right(self, p):$/;"	kind:member	line:59
+right_10	../Tree2/treerunner.py	/^right_10 = lbt._add_right(root, 15)$/;"	kind:variable	line:6
+right_15	../Tree2/treerunner.py	/^right_15 = lbt._add_right(right_10, 20)$/;"	kind:variable	line:12
+right_5	../Tree2/treerunner.py	/^right_5 = lbt._add_right(left_10, 9)$/;"	kind:variable	line:9
+rmq.py	../weekofcode/rmq.py	1;"	kind:file	line:1
+root	../Tree2/linkedbinarytree.py	/^    def root(self):$/;"	kind:member	line:53
+root	../Tree2/treebase.py	/^    def root(self):$/;"	kind:member	line:12
+root	../Tree2/treerunner.py	/^root = lbt.root()$/;"	kind:variable	line:4
+rotate	../list/circularqueue.py	/^    def rotate(self):$/;"	kind:member	line:33
+runner.py	../list/runner.py	1;"	kind:file	line:1
+s	../topcoder/scratchpad/dp.py	/^s = int(raw_input())$/;"	kind:variable	line:3
+s	../weekofcode/pole.py	/^        s = arraydistance(poleheightarray,costheightarray,i)$/;"	kind:variable	line:46
+scratch.py	../Sorting/scratch.py	1;"	kind:file	line:1
+search	../linkedlist.py	/^    def search(self, value):$/;"	kind:member	line:32
+second_largest	../scratchpad/secondlargest.py	/^    def second_largest(arr):$/;"	kind:function	line:4
+second_lowest	../scratchpad/secondsmallest.py	/^second_lowest = list(set(sorted([marks for name, marks in test])))[1]$/;"	kind:variable	line:41
+secondlargest.py	../scratchpad/secondlargest.py	1;"	kind:file	line:1
+secondsmallest.py	../scratchpad/secondsmallest.py	1;"	kind:file	line:1
+separate	../generatorlearning.py	/^def separate(n):$/;"	kind:function	line:1
+seq	../increasingseq.py	/^seq = map(int,raw_input().split())$/;"	kind:variable	line:2
+set.py	../scratchpad/set.py	1;"	kind:file	line:1
+setColor	../Graphs/Graph/vertex.py	/^    def setColor(self, col):$/;"	kind:member	line:21
+setColor	../Graphs/Graph2/vertex.py	/^    def setColor(self, color):$/;"	kind:member	line:30
+setData	../linkedlist.py	/^    def setData(self, value):$/;"	kind:member	line:12
+setDistance	../Graphs/Graph/vertex.py	/^    def setDistance(self, dist):$/;"	kind:member	line:12
+setDistance	../Graphs/Graph2/vertex.py	/^    def setDistance(self, val):$/;"	kind:member	line:24
+setNext	../linkedlist.py	/^    def setNext(self, nextNode):$/;"	kind:member	line:15
+setPredecessor	../Graphs/Graph/vertex.py	/^    def setPredecessor(self, pred):$/;"	kind:member	line:15
+setPredecessor	../Graphs/Graph2/vertex.py	/^    def setPredecessor(self, vertex):$/;"	kind:member	line:27
+setRootVal	../Tree/binarytree.py	/^    def setRootVal(self, obj):$/;"	kind:member	line:29
+setdiff.py	../scratchpad/setdiff.py	1;"	kind:file	line:1
+setx	../classlearning.py	/^    def setx(self,value):$/;"	kind:member	line:8
+sibling	../Tree2/binarytree.py	/^    def sibling(self, p):$/;"	kind:member	line:10
+sleep_decorator	../decorators/sleepdecorator.py	/^def sleep_decorator(some_function):$/;"	kind:function	line:3
+sleepdecorator.py	../decorators/sleepdecorator.py	1;"	kind:file	line:1
+small	../ceaser.py	/^small = []$/;"	kind:variable	line:5
+sort	../Sorting/quicksort.py	/^def sort(arr, low, high):$/;"	kind:function	line:31
+sort	../Sorting/scratch.py	/^    def sort(self):$/;"	kind:member	line:37
+sort	../Sorting/sort.py	/^def sort(array, low, high):$/;"	kind:function	line:30
+sort.py	../Sorting/sort.py	1;"	kind:file	line:1
+sorted	../sortedalmost.py	/^def sorted(array):$/;"	kind:function	line:11
+sortedalmost.py	../sortedalmost.py	1;"	kind:file	line:1
+sos.py	../sos.py	1;"	kind:file	line:1
+sparsearray.py	../sparsearray.py	1;"	kind:file	line:1
+squarenumbers	../squarenumbers.py	/^def squarenumbers(low,high):$/;"	kind:function	line:2
+squarenumbers.py	../squarenumbers.py	1;"	kind:file	line:1
+straightforward.py	../straightforward.py	1;"	kind:file	line:1
+strangead.py	../strangead.py	1;"	kind:file	line:1
+string	../alternatingcharacters.py	/^string = raw_input()$/;"	kind:variable	line:5
+string	../bigger.py	/^string = "bbb"$/;"	kind:variable	line:36
+string	../ceaser.py	/^string = raw_input().strip()$/;"	kind:variable	line:2
+string	../copy.py	/^string = "ABC"$/;"	kind:variable	line:22
+string	../sos.py	/^    string = raw_input()$/;"	kind:variable	line:2
+string	../superreducedstring.py	/^        string = string[:i] + string[i+2:]$/;"	kind:variable	line:5
+string	../superreducedstring.py	/^string = raw_input()$/;"	kind:variable	line:1
+string1	../anagram.py	/^string1 = raw_input().strip()$/;"	kind:variable	line:1
+string1	../diff.py	/^string1 = "qwerasdf"$/;"	kind:variable	line:3
+string2	../anagram.py	/^string2 = raw_input().strip()$/;"	kind:variable	line:2
+string2	../diff.py	/^string2 = "qwerbsdf"$/;"	kind:variable	line:4
+studentmarks	../scratchpad/average.py	/^    studentmarks = {}$/;"	kind:variable	line:3
+sum	../search/gridland.py	/^        sum = 0$/;"	kind:variable	line:31
+superreducedstring.py	../superreducedstring.py	1;"	kind:file	line:1
+swap	../Sorting/sort.py	/^def swap(a, b):$/;"	kind:function	line:5
+swapfor3and5	../bomberman.py	/^def swapfor3and5(array):$/;"	kind:function	line:22
+swapfor3and5	../newbomberman.py	/^def swapfor3and5(array):$/;"	kind:function	line:22
+sys	../Graphs/Knights/knightgraph.py	/^import sys$/;"	kind:namespace	line:1
+sys	../coinmin.py	/^import sys$/;"	kind:namespace	line:1
+sys	../topcoder/scratchpad/dp.py	/^import sys$/;"	kind:namespace	line:1
+sys	../weekofcode/pole.py	/^import sys$/;"	kind:namespace	line:3
+t	../alternatingcharacters.py	/^        t = [i for i in string if i in [c1,c2]]$/;"	kind:variable	line:12
+t	../timings/dic.py	/^    t = timeit.Timer("random.randrange(%d) in x" % (i,), "from __main__ import random, x")$/;"	kind:variable	line:5
+tail	../list/linkedlistbase.py	/^    def tail(self):$/;"	kind:member	line:34
+tccount	../search/icecreamparlor.py	/^tccount = int(raw_input())$/;"	kind:variable	line:1
+temp	../revtest.py	/^temp = []$/;"	kind:variable	line:4
+temp	../search/icecreamparlor.py	/^    temp = sorted(icoriginalarray)$/;"	kind:variable	line:24
+test	../almostsort.py	/^test = sorted(array)$/;"	kind:variable	line:7
+test	../cut.py	/^test = int(raw_input())$/;"	kind:variable	line:1
+test	../list/runner.py	/^test = Node(10)$/;"	kind:variable	line:3
+test	../plus.py	/^                            test = availabledic[j] * availabledic[j]$/;"	kind:variable	line:71
+test	../plus.py	/^                        test = availabledic[i] * availabledic[j]$/;"	kind:variable	line:84
+test	../project euler/2.py	/^    test = fibonacci(int(raw_input()))$/;"	kind:variable	line:12
+test	../scratchpad/secondsmallest.py	/^test = []$/;"	kind:variable	line:34
+test	../sortedalmost.py	/^    test = array[:ups[0]+1] + array[ups[0]::][::-1]$/;"	kind:variable	line:67
+test	../sortedalmost.py	/^    test = array[dip[0]::-1] + array[dip[0]+1:len(array)]$/;"	kind:variable	line:60
+test	../test.py	/^test = LinkedList()$/;"	kind:variable	line:3
+test	../timings/linklist.py	/^test = node("initial")$/;"	kind:variable	line:14
+test	../topcoder/abba.py	/^    test = ABBA()$/;"	kind:variable	line:22
+test	../weekofcode/restartpole.py	/^    test = {}$/;"	kind:variable	line:9
+test.py	../decorators/test.py	1;"	kind:file	line:1
+test.py	../test.py	1;"	kind:file	line:1
+test.py	../weekofcode/scratchpad/test.py	1;"	kind:file	line:1
+text	../encryption.py	/^text = "".join(raw_input().split())$/;"	kind:variable	line:2
+tictactoe.py	../timings/tictactoe.py	1;"	kind:file	line:1
+time	../decorators/sleepdecorator.py	/^import time$/;"	kind:namespace	line:1
+time	../decorators/timedecorator.py	/^import time$/;"	kind:namespace	line:1
+timedecorator.py	../decorators/timedecorator.py	1;"	kind:file	line:1
+timeinwords	../timeinwords.py	/^def timeinwords(string):$/;"	kind:function	line:54
+timeinwords.py	../timeinwords.py	1;"	kind:file	line:1
+timeit	../timings/dic.py	/^import timeit$/;"	kind:namespace	line:1
+timing_function	../decorators/timedecorator.py	/^def timing_function(some_function):$/;"	kind:function	line:3
+toCorrectPosition	../Sorting/sort.py	/^def toCorrectPosition(array, index, low, high):$/;"	kind:function	line:8
+toString	../copy.py	/^def toString(List):$/;"	kind:function	line:4
+tocal	../ceaser.py	/^        tocal = (capital.index(s) + jump) % 26$/;"	kind:variable	line:20
+tocal	../ceaser.py	/^        tocal = (small.index(s) + jump) % 26$/;"	kind:variable	line:17
+top	../list/favouriteslist.py	/^    def top(self, num):$/;"	kind:member	line:48
+torisonal.py	../torisonal.py	1;"	kind:file	line:1
+total	../Sorting/countingsort.py	/^total = int(raw_input())$/;"	kind:variable	line:1
+total	../weekofcode/candies.py	/^            total = initialvalue$/;"	kind:variable	line:10
+total	../weekofcode/candies.py	/^        total = total - candiestoremove[i]$/;"	kind:variable	line:7
+total	../weekofcode/candies.py	/^    total = initialvalue$/;"	kind:variable	line:4
+totalcomb	../weekofcode/pole.py	/^    totalcomb = [ tuple([polelist[0]] + list(i)) for i in combinations(polelist[1:], stacks - 1 )]$/;"	kind:variable	line:42
+totalcomb	../weekofcode/restartpole.py	/^    totalcomb = [ tuple([polelist[0]] + list(i)) for i in combinations(polelist[1:], stacks)]$/;"	kind:variable	line:24
+traverse	../Graphs/Graph/wordladder.py	/^def traverse(y):$/;"	kind:function	line:35
+traverse	../Graphs/Graph2/buildgraph.py	/^def traverse(y):$/;"	kind:function	line:41
+treebase.py	../Tree2/treebase.py	1;"	kind:file	line:1
+treerunner.py	../Tree2/treerunner.py	1;"	kind:file	line:1
+up	../sortedalmost.py	/^up = []$/;"	kind:variable	line:9
+val	../depth.py	/^        val = array[i][j]$/;"	kind:variable	line:8
+val	../scratchpad/average.py	/^    val = reduce((lambda x, y: x + y), studentmarks[query_name]) \/5$/;"	kind:variable	line:11
+value	../project euler/1.py	/^    value = int(raw_input()) - 1$/;"	kind:variable	line:2
+value	../search/icecreamparlor.py	/^    value = int(raw_input())$/;"	kind:variable	line:20
+value	../weekofcode/minmin.py	/^value = int(raw_input())$/;"	kind:variable	line:4
+vertex.py	../Graphs/Graph/vertex.py	1;"	kind:file	line:1
+vertex.py	../Graphs/Graph2/vertex.py	1;"	kind:file	line:1
+vowels	../weekofcode/melodious.py	/^vowels = "a e i o u".split()$/;"	kind:variable	line:4
+winner	../timings/tictactoe.py	/^    def winner(self):$/;"	kind:member	line:38
+wordladder.py	../Graphs/Graph/wordladder.py	1;"	kind:file	line:1
+wrapped	../decorators/test.py	/^    def wrapped(a, b):$/;"	kind:function	line:3
+wrapper	../decorators/sleepdecorator.py	/^    def wrapper(*args, **kwargs):$/;"	kind:function	line:9
+wrapper	../decorators/timedecorator.py	/^    def wrapper():$/;"	kind:function	line:9
+x	../classlearning.py	/^    x = property(getx, setx, delx, "I am the x property")$/;"	kind:variable	line:14
+x	../timings/dic.py	/^    t = timeit.Timer("random.randrange(%d) in x" % (i,), "from __main__ import random, x")$/;"	kind:namespace	line:5
+x	../timings/dic.py	/^    x = list(xrange(i))$/;"	kind:variable	line:6
+x	../timings/dic.py	/^    x = {j:None for j in xrange(i)}$/;"	kind:variable	line:8
+x	../torisonal.py	/^    x = (b - a).cross(c - b)$/;"	kind:variable	line:29
+y	../torisonal.py	/^    y = (c - b).cross(d - c)$/;"	kind:variable	line:30
+z	../weekofcode/pole.py	/^        z = tuple(map(int,raw_input().split()))$/;"	kind:variable	line:35
