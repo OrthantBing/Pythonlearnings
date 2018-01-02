@@ -1,14 +1,14 @@
-class Tree:
-    class Position:
+class Tree(object):
+    class Position(object):
         def element(self):
             raise NotImplementedError('must be implemented by the subclass')
-        
+
         def __eq__(self, o):
             raise NotImplementedError('must be implemented by the subclass')
-        
+
         def __ne__(self, o):
             raise NotImplementedError('must be implemented by the subclass')
-    
+
     def root(self):
         raise NotImplementedError('must be implemented by the subclass')
 
@@ -20,10 +20,10 @@ class Tree:
 
     def children(self, p):
         raise NotImplementedError('must be implemented by the subclass')
-    
+
     def __len__(self):
         raise NotImplementedError('must be implemented by the subclass')
-    
+
     def is_root(self, p):
         return self.root() == p
 
@@ -42,12 +42,8 @@ class Tree:
     def height(self, p=None):
         if p == None:
             p = self.root()
-        
+
         if self.is_leaf(p):
             return 0
         else:
             return 1 + max(self.height(c) for c in self.children(p))
-        
-
-
-    

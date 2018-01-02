@@ -1,19 +1,20 @@
 from binarytree import BinaryTree
 
+
 class LinkedBinaryTree(BinaryTree):
 
-    class _Node:
+    class _Node(object):
         __slots__ = '_element', '_left', '_right', '_parent'
 
-        def __init__(self, e, parent=None, left=None, right= None):
+        def __init__(self, e, parent=None, left=None, right=None):
             self._element = e
             self._parent = parent
             self._left = left
             self._right = right
 
-        
     class Position(BinaryTree.Position):
         __slots__ = '_element', '_container'
+
         def __init__(self, container, element):
             self._container = container
             self._element = element
@@ -87,7 +88,7 @@ class LinkedBinaryTree(BinaryTree):
         if node._left is not None:
             raise ValueError("Left is not empty to update")
         else:
-            node._left = self._Node(e,node)
+            node._left = self._Node(e, node)
             self._size += 1
             return self._make_position(node._left)
 
@@ -124,13 +125,12 @@ class LinkedBinaryTree(BinaryTree):
             else:
                 parent._right = child
         self._size -= 1
-        node._parent = node # convention for deleteing or deprecating a node.
-        return node._element # the element that was deleted.
+        node._parent = node  # convention for deleteing or deprecating a node.
+        return node._element  # the element that was deleted.
 
-        
     def _attach(self, p, t1, t2):
         node = self._validate(p)
-        if not self._is_leaf(p):
+        if not self.is_leaf(p):
             raise ValueError('position must be a leaf')
         if not type(self) is type(t1) is type(t2):
             raise TypeError('nodes must be of same type')
@@ -166,11 +166,10 @@ class LinkedBinaryTree(BinaryTree):
                 for p in self._subtree_postorder(self.root()):
                     yield p
             elif ordering == 'preorderlabel':
-                for p in self._subtree_preorder_label(self.root(),1):
+                for p in self._subtree_preorder_label(self.root(), 1):
                     yield p
             elif ordering == 'preorderlabelpath':
-                self.preorder_label(self.root(),1, [])
-            
+                self.preorder_label(self.root(), 1, [])
 
     def _subtree_preorder(self, p):
         yield p.element()
@@ -179,27 +178,28 @@ class LinkedBinaryTree(BinaryTree):
                 yield other
 
     def _subtree_preorder_label(self, p, depth):
-        printvalue = 2*depth*' ' + str(p.element())
+        printvalue = 2 * depth * ' ' + str(p.element())
         yield printvalue
         for c in self.children(p):
-            for other in self._subtree_preorder_label(c,depth + 1):
+            for other in self._subtree_preorder_label(c, depth + 1):
                 yield other
 
     def _subtree_preorder_label_path(self, p, depth, path):
-        printval = 2*depth*' ' + '.'.join([str(i+1) for i in path]) + ' ' + str(p.element())
+        printval = 2 * depth * ' ' + \
+            '.'.join([str(i + 1) for i in path]) + ' ' + str(p.element())
         yield printval
         path.append(0)
         for c in self.children(p):
-            for other in self._subtree_preorder_label_path(c, depth+1, path):
+            for other in self._subtree_preorder_label_path(c, depth + 1, path):
                 yield other
-    
+
     def preorder_label(self, p, depth, path):
         path.append(0)
-        printval = 2*depth*' ' + '.'.join([str(i+1) for i in path]) + ' ' + str(p.element())
+        printval = 2 * depth * ' ' + \
+            '.'.join([str(i + 1) for i in path]) + ' ' + str(p.element())
         print(printval)
-        
         for c in self.children(p):
-            self.preorder_label(c, depth+1, path)
+            self.preorder_label(c, depth + 1, path)
             path[-1] += 1
         path.pop()
 
@@ -227,4 +227,3 @@ class LinkedBinaryTree(BinaryTree):
         if self.right(p) is not None:
             for other in self._subtree_inorder(self.right(p)):
                 yield other
-
