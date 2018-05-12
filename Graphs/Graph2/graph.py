@@ -14,6 +14,7 @@ class Graph:
             return self.vertexList[n]
         else: 
             return None
+
     
     def __contains__(self, n):
         return n in self.vertexList
