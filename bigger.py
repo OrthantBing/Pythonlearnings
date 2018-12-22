@@ -9,7 +9,7 @@ def findsmallercounttoright(string,index):
     return count
 
 def findrank(string):
-    rank = 1;
+    rank = 1
     factval = fact(len(string))
     for i in xrange(len(string)):
         # find the possible positions

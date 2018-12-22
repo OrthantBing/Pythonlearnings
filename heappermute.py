@@ -24,7 +24,7 @@ for _ in xrange(cases):
         if all( j == diff for j in outval):
             print " ".join(map(str, i))
             found = 1
-            break;
+            break
 
     if(found == 0):
         print -1
